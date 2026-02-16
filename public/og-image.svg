@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Kushagra Pandey portfolio preview">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b0b12"/>
-      <stop offset="100%" stop-color="#1d1033"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#g)"/>
-  <circle cx="980" cy="110" r="180" fill="#9333ea" opacity="0.28"/>
-  <circle cx="180" cy="560" r="220" fill="#22d3ee" opacity="0.18"/>
-  <text x="80" y="290" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="700">Kushagra Pandey</text>
-  <text x="80" y="360" fill="#c084fc" font-family="Inter, Arial, sans-serif" font-size="36">Full-Stack Developer &amp; AI Enthusiast</text>
-</svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="162px" height="162px" viewBox="-11.16 -11.16 58.32 58.32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--twemoji" preserveAspectRatio="xMidYMid meet" fill="#000" stroke="#000" transform="matrix(1, 0, 0, 1, 0, 0)rotate(0)" stroke-width="1.9080000000000001">
+<g id="SVGRepo_bgCarrier" stroke-width="0" transform="translate(0.17999999999999972,0.17999999999999972), scale(0.99)">
+<rect x="-11.16" y="-11.16" width="58.32" height="58.32" rx="29.16" fill="#28b3e2" strokewidth="0"/>
+</g>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#e91616" stroke-width="0.21600000000000003">
+<path fill="#9333ea" d="M36 32a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4h28a4 4 0 0 1 4 4v28z"/>
+<path fill="#FFF" d="M9.925 9.032c0-1.271.93-2.294 2.325-2.294c1.333 0 2.325.868 2.325 2.294v6.697l7.627-8.124c.342-.372.93-.868 1.799-.868c1.178 0 2.295.899 2.295 2.232c0 .806-.496 1.457-1.52 2.48l-5.861 5.767l7.162 7.473c.744.744 1.303 1.426 1.303 2.357c0 1.457-1.146 2.139-2.418 2.139c-.898 0-1.488-.526-2.357-1.457l-8.031-8.682v7.906c0 1.21-.93 2.232-2.325 2.232c-1.333 0-2.325-.867-2.325-2.232V9.032z"/>
+</g>
+<g id="SVGRepo_iconCarrier">
+<path fill="#9333ea" d="M36 32a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4h28a4 4 0 0 1 4 4v28z"/>
+<path fill="#FFF" d="M9.925 9.032c0-1.271.93-2.294 2.325-2.294c1.333 0 2.325.868 2.325 2.294v6.697l7.627-8.124c.342-.372.93-.868 1.799-.868c1.178 0 2.295.899 2.295 2.232c0 .806-.496 1.457-1.52 2.48l-5.861 5.767l7.162 7.473c.744.744 1.303 1.426 1.303 2.357c0 1.457-1.146 2.139-2.418 2.139c-.898 0-1.488-.526-2.357-1.457l-8.031-8.682v7.906c0 1.21-.93 2.232-2.325 2.232c-1.333 0-2.325-.867-2.325-2.232V9.032z"/>
+</g>
+</svg>
