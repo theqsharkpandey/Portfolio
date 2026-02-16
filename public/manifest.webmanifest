@@ -1,0 +1,18 @@
+{
+  "name": "Kushagra Pandey Portfolio",
+  "short_name": "Kushagra",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Portfolio of Kushagra Pandey — Full-Stack Developer and AI enthusiast.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
