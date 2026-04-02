@@ -30,9 +30,18 @@ const awards = [
 ];
 
 const certifications = [
-    'Neural Networks and Deep Learning — DeepLearning.AI (Coursera)',
-    'NLP with Classification & Vector Spaces — DeepLearning.AI (Coursera)',
-    'Delta — Full Stack Web Development — Apna College',
+    {
+        name: 'Neural Networks and Deep Learning — DeepLearning.AI (Coursera)',
+        link: 'https://www.coursera.org/account/accomplishments/certificate/2UWJFJBZ1R3B',
+    },
+    {
+        name: 'NLP with Classification & Vector Spaces — DeepLearning.AI (Coursera)',
+        link: 'https://www.coursera.org/account/accomplishments/verify/0ACUAFSJX555',
+    },
+    {
+        name: 'Delta — Full Stack Web Development — Apna College',
+        link: 'https://drive.google.com/file/d/1SuEMhxGY986BZr1zPU9hulFAdq4y-jf2/view',
+    },
 ];
 
 const cardStyle = {
@@ -123,7 +132,18 @@ const Education = () => {
                     viewport={{ once: true }}
                     transition={{ duration: 0.4, delay: i * 0.15 }}
                 >
-                    <p style={{ margin: 0, fontWeight: 500, color: 'var(--text-primary)' }}>📜 {cert}</p>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.75rem' }}>
+                        <p style={{ margin: 0, fontWeight: 500, color: 'var(--text-primary)' }}>📜 {cert.name}</p>
+                        <a
+                            href={cert.link}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="cert-link"
+                        >
+                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" /><polyline points="15 3 21 3 21 9" /><line x1="10" y1="14" x2="21" y2="3" /></svg>
+                            View Certificate
+                        </a>
+                    </div>
                 </motion.div>
             ))}
         </section>
